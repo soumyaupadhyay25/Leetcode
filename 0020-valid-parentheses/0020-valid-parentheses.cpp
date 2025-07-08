@@ -1,25 +1,24 @@
 class Solution {
- public:
-  bool isValid(string s) {
-    stack<char> stack;
+public:
+    bool isValid(string s) {
+        stack<char> st;
+        int n = s.size();  // correct: use size of input string
 
-    for (const char c : s)
-      if (c == '(')
-        stack.push(')');
-      else if (c == '{')
-        stack.push('}');
-      else if (c == '[')
-        stack.push(']');
-      else if (stack.empty() || pop(stack) != c)
-        return false;
+        for (int i = 0; i < n; i++) {
+            if (s[i] == '(' || s[i] == '[' || s[i] == '{') {
+                st.push(s[i]);
+            } else {
+                if (st.empty()) return false;  // can't match if stack is empty
+                char ch = st.top();
+                if ((s[i] == ')' && ch != '(') ||
+                    (s[i] == '}' && ch != '{') ||
+                    (s[i] == ']' && ch != '[')) {
+                    return false;
+                }
+                st.pop(); // only pop when it matches
+            }
+        }
 
-    return stack.empty();
-  }
-
- private:
-  int pop(stack<char>& stack) {
-    const int c = stack.top();
-    stack.pop();
-    return c;
-  }
+        return st.empty();  // must be empty if all brackets matched
+    }
 };
