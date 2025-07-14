@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Sorting
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0412-fizz-buzz) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Bit Manipulation
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0412-fizz-buzz) |
 | [2479-meeting-rooms-iii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2479-meeting-rooms-iii) |
 ## Memoization
 |  |
