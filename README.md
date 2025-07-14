@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0258-add-digits) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Bit Manipulation
@@ -145,9 +146,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0258-add-digits) |
 | [2479-meeting-rooms-iii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2479-meeting-rooms-iii) |
 ## Memoization
 |  |
 | ------- |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
