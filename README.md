@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0742-to-lower-case) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2235-capitalize-the-title](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2235-capitalize-the-title) |
 | [3396-valid-word](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3396-valid-word) |
 | [3618-find-the-original-typed-string-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0792-binary-search) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -184,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0258-add-digits) |
+## Depth-First Search
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
