@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1944-truncate-sentence](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1944-truncate-sentence) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2235-capitalize-the-title](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2235-capitalize-the-title) |
 | [3396-valid-word](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3396-valid-word) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1813-maximum-erasure-value](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1944-truncate-sentence](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1944-truncate-sentence) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
