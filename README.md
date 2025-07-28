@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1944-truncate-sentence](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1944-truncate-sentence) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0067-add-binary) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Linked List
@@ -270,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
