@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0792-binary-search) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0792-binary-search) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -291,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Matrix
+|  |
+| ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
