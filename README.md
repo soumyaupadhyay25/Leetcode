@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0056-merge-intervals) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0125-valid-palindrome) |
