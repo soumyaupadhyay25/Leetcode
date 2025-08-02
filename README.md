@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0792-binary-search) |
+| [0954-maximum-sum-circular-subarray](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0954-maximum-sum-circular-subarray](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0053-maximum-subarray) |
+| [0954-maximum-sum-circular-subarray](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0954-maximum-sum-circular-subarray](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Enumeration
 |  |
 | ------- |
@@ -308,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
