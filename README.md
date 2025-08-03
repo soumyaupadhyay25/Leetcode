@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0812-rotate-string) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Design
 |  |
