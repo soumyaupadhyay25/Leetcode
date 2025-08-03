@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0792-binary-search) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0349-intersection-of-two-arrays) |
