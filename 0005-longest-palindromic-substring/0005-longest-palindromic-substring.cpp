@@ -1,30 +1,28 @@
 class Solution {
- public:
-  string longestPalindrome(string s) {
-    if (s.empty())
-      return "";
-
-    pair<int, int> indices{0, 0};
-
-    for (int i = 0; i < s.length(); ++i) {
-      const auto [l1, r1] = extend(s, i, i);
-      if (r1 - l1 > indices.second - indices.first)
-        indices = {l1, r1};
-      if (i + 1 < s.length() && s[i] == s[i + 1]) {
-        const auto [l2, r2] = extend(s, i, i + 1);
-        if (r2 - l2 > indices.second - indices.first)
-          indices = {l2, r2};
-      }
+public:
+    bool isPalindrome(string& s, int start, int end) {
+        while (start < end) {
+            if (s[start] != s[end])
+                return false;
+            start++;
+            end--;
+        }
+        return true;
     }
 
-    return s.substr(indices.first, indices.second - indices.first + 1);
-  }
+    string longestPalindrome(string s) {
+        int maxLen = 0;
+        string result = "";
 
- private:
-  pair<int, int> extend(const string& s, int i, int j) {
-    for (; i >= 0 && j < s.length(); --i, ++j)
-      if (s[i] != s[j])
-        break;
-    return {i + 1, j - 1};
-  }
+        for (int i = 0; i < s.length(); i++) {
+            for (int j = i; j < s.length(); j++) {
+                if (isPalindrome(s, i, j) && (j - i + 1) > maxLen) {
+                    maxLen = j - i + 1;
+                    result = s.substr(i, maxLen);
+                }
+            }
+        }
+
+        return result;
+    }
 };
