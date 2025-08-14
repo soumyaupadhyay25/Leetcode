@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0118-pascals-triangle) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
