@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0900-reordered-power-of-2) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0900-reordered-power-of-2) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0498-diagonal-traverse](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0412-fizz-buzz) |
@@ -270,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0342-power-of-four) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
