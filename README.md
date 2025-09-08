@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
