@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2235-capitalize-the-title](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2235-capitalize-the-title) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3396-valid-word) |
 | [3618-find-the-original-typed-string-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Sorting
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2689-rearranging-fruits) |
+| [2887-sort-vowels-in-a-string](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3748-sort-matrix-by-diagonals](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Array
 |  |
