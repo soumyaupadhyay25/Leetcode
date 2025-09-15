@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
