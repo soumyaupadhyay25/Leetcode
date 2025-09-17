@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2429-design-a-food-rating-system](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2689-rearranging-fruits](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2235-capitalize-the-title](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2235-capitalize-the-title) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2429-design-a-food-rating-system](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3462-vowels-game-in-a-string) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2429-design-a-food-rating-system](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2479-meeting-rooms-iii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2429-design-a-food-rating-system](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2479-meeting-rooms-iii) |
 ## Sliding Window
 |  |
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [2429-design-a-food-rating-system](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Queue
 |  |
 | ------- |
@@ -464,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2429-design-a-food-rating-system](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Probability and Statistics
