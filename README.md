@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3827-implement-router) |
 ## Two Pointers
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3827-implement-router) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -345,12 +348,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [2429-design-a-food-rating-system](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3797-design-spreadsheet](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3827-implement-router) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0954-maximum-sum-circular-subarray](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3827-implement-router) |
 ## Enumeration
 |  |
 | ------- |
@@ -477,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3827-implement-router) |
 ## Probability and Statistics
 |  |
 | ------- |
