@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2429-design-a-food-rating-system](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3462-vowels-game-in-a-string) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0498-diagonal-traverse) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3790-fruits-into-baskets-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -511,4 +514,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
