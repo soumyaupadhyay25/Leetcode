@@ -505,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0037-sudoku-solver) |
+| [0077-combinations](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0077-combinations) |
 | [0679-24-game](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Brainteaser
