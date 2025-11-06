@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3791-fruits-into-baskets-iii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Sliding Window
 |  |
 | ------- |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [3863-power-grid-maintenance](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Trie
 |  |
 | ------- |
@@ -524,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [3863-power-grid-maintenance](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -535,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -545,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3863-power-grid-maintenance](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -573,4 +580,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Graph
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
