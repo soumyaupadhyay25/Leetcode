@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2689-rearranging-fruits](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2689-rearranging-fruits) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3462-vowels-game-in-a-string) |
