@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2689-rearranging-fruits](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2689-rearranging-fruits) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3531-count-covered-buildings](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3531-count-covered-buildings](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3748-sort-matrix-by-diagonals](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Array
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3531-count-covered-buildings](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
