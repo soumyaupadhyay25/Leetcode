@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
