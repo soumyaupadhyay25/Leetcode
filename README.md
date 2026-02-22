@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0342-power-of-four) |
+| [0868-binary-gap](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0868-binary-gap) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
