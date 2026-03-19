@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3454-separate-squares-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3454-separate-squares-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
