@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1813-maximum-erasure-value](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1917-maximum-average-pass-ratio](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1944-truncate-sentence](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1944-truncate-sentence) |
 | [1975-maximum-matrix-sum](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1975-maximum-matrix-sum](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
