@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0788-rotated-digits](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0799-champagne-tower) |
 | [0826-soup-servings](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0826-soup-servings) |
 | [0954-maximum-sum-circular-subarray](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0412-fizz-buzz) |
 | [0679-24-game](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0679-24-game) |
+| [0788-rotated-digits](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0788-rotated-digits) |
 | [0826-soup-servings](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
