@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2689-rearranging-fruits](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2689-rearranging-fruits) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3454-separate-squares-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3454-separate-squares-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2429-design-a-food-rating-system](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2479-meeting-rooms-iii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Sliding Window
@@ -579,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1975-maximum-matrix-sum](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -612,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/soumyaupadhyay25/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3863-power-grid-maintenance](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
@@ -661,4 +666,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/soumyaupadhyay25/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
