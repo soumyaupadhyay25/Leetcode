@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0417-pacific-atlantic-water-flow](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0486-predict-the-winner](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0679-24-game) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0799-champagne-tower) |
 | [0826-soup-servings](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0826-soup-servings) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0486-predict-the-winner) |
 | [0679-24-game](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0679-24-game) |
 | [0788-rotated-digits](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0788-rotated-digits) |
 | [0826-soup-servings](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0826-soup-servings) |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0486-predict-the-winner) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Divide and Conquer
 |  |
@@ -637,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/soumyaupadhyay25/Leetcode/tree/master/0486-predict-the-winner) |
 | [3462-vowels-game-in-a-string](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Combinatorics
 |  |
