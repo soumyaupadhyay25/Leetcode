@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3827-implement-router) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3625-count-number-of-trapezoids-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3640-trionic-array-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/soumyaupadhyay25/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
